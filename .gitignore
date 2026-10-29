@@ -1,0 +1,16 @@
+﻿# Planilhas e dados privados
+*.xlsx
+*.xls
+*.csv
+
+# Relatorios gerados
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Configuracoes locais
+.env
